@@ -4,7 +4,8 @@
 
 **This project is a simulated case study of Swiggy, a popular Indian food delivery platform. It uses a dummy dataset created to resemble real-world delivery operations, allowing hands-on SQL practice for data analysis and business intelligence.**
 
-![image](https://github.com/user-attachments/assets/79f9f3c0-2743-4660-84ef-86ff2e87dc4f)
+![image](https://github.com/user-attachments/assets/3461446d-a90c-4c40-a7bb-5df85b499718)
+
 
 
 
